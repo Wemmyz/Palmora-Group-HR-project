@@ -74,3 +74,11 @@ Total Pay = 'Data bonus Merge'[Salary] + 'Data bonus Merge'[Bonus Amount]
 •	Palmora Group Project— Power BI report file
 
 •	README.md — This documentation
+
+
+![Chart 1](https://github.com/user-attachments/assets/aa6d0363-6922-4925-81b6-862a1efacef8)
+
+
+![Chart](https://github.com/user-attachments/assets/dd3b808e-87a5-4104-b76a-3311a2ab3257)
+
+
