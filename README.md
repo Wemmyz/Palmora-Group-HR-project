@@ -76,6 +76,8 @@ Total Pay = 'Data bonus Merge'[Salary] + 'Data bonus Merge'[Bonus Amount]
 •	README.md — This documentation
 
 
+#### Analysis
+
 ![Chart 1](https://github.com/user-attachments/assets/aa6d0363-6922-4925-81b6-862a1efacef8)
 
 
